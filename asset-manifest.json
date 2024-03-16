@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/GoogleGemini/Signin/static/css/main.842a45b7.css",
-    "main.js": "/GoogleGemini/Signin/static/js/main.d5059941.js",
-    "static/media/user_icon.png": "/GoogleGemini/Signin/static/media/user_icon.8819483ee7d653116bf2.png",
-    "static/media/gallery_icon.png": "/GoogleGemini/Signin/static/media/gallery_icon.1da1416be560b7741007.png",
-    "index.html": "/GoogleGemini/Signin/index.html",
-    "main.842a45b7.css.map": "/GoogleGemini/Signin/static/css/main.842a45b7.css.map",
-    "main.d5059941.js.map": "/GoogleGemini/Signin/static/js/main.d5059941.js.map"
+    "main.css": "/GoogleGemini/static/css/main.842a45b7.css",
+    "main.js": "/GoogleGemini/static/js/main.00f31448.js",
+    "static/media/user_icon.png": "/GoogleGemini/static/media/user_icon.8819483ee7d653116bf2.png",
+    "static/media/gallery_icon.png": "/GoogleGemini/static/media/gallery_icon.1da1416be560b7741007.png",
+    "index.html": "/GoogleGemini/index.html",
+    "main.842a45b7.css.map": "/GoogleGemini/static/css/main.842a45b7.css.map",
+    "main.00f31448.js.map": "/GoogleGemini/static/js/main.00f31448.js.map"
   },
   "entrypoints": [
     "static/css/main.842a45b7.css",
-    "static/js/main.d5059941.js"
+    "static/js/main.00f31448.js"
   ]
 }
