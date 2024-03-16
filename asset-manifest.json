@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/GoogleGemini/static/css/main.842a45b7.css",
-    "main.js": "/GoogleGemini/static/js/main.6abe6c95.js",
+    "main.js": "/GoogleGemini/static/js/main.0e56c72c.js",
     "static/media/user_icon.png": "/GoogleGemini/static/media/user_icon.8819483ee7d653116bf2.png",
     "static/media/gallery_icon.png": "/GoogleGemini/static/media/gallery_icon.1da1416be560b7741007.png",
     "index.html": "/GoogleGemini/index.html",
     "main.842a45b7.css.map": "/GoogleGemini/static/css/main.842a45b7.css.map",
-    "main.6abe6c95.js.map": "/GoogleGemini/static/js/main.6abe6c95.js.map"
+    "main.0e56c72c.js.map": "/GoogleGemini/static/js/main.0e56c72c.js.map"
   },
   "entrypoints": [
     "static/css/main.842a45b7.css",
-    "static/js/main.6abe6c95.js"
+    "static/js/main.0e56c72c.js"
   ]
 }
